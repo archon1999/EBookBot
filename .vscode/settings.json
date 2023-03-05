@@ -1,7 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        "./server",
-        "./parser",
-    ],
-    "python.analysis.typeCheckingMode": "off",
-}
