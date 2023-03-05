@@ -1,0 +1,24 @@
+[tool.poetry]
+authors = ["Nazarbek"]
+description = ""
+documentation = ""
+homepage = ""
+keywords = ["fastapi"]
+license = "Apache-2.0"
+name = "EBookBot"
+readme = "README.md"
+repository = "https://github.com/archon1999/EBookBot.git"
+version = "1"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Babel = "*"
+aiofiles = "*"
+redis = "^4.2.0rc1"
+bcrypt = "*"
+fastapi = "*"
+jinja2 = "*"
+python-multipart = "*"
+tortoise-orm = "*"
+uvicorn = "*"
+pendulum = "*"
